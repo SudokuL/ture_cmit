@@ -1,3 +1,3 @@
 # Cloudflare Pages redirects
-/cmit/* /index.html 200
-/* /index.html 200
+/cmit /index.html 200
+/cmit/ /index.html 200
